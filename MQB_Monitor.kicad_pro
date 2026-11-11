@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.22,
-          "height": 6.2,
-          "width": 6.2
+          "drill": 0.2,
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -61,7 +61,7 @@
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
           "min_clearance": 0.0,
-          "min_island_area": 200.0,
+          "min_island_area": 100.0,
           "min_thickness": 0.25,
           "pad_connection": 1,
           "remove_islands": 2,
@@ -840,7 +840,7 @@
         "uuid": "d3a3852d-136c-4abc-8592-19e7c61ff8ab"
       }
     ],
-    "used_designators": "IC1,#FLG1-3,PS1,V_Teensy1-6,BOOT1,ESP_EN1,V_ESP1-4,#PWR1-53,D1-5,S1-6,U1-6,SW3,C1-26,P1-3,Teensy1,RESET1,J1-4,USB1-2,L1-3,H1-5,R1-16,JP1",
+    "used_designators": "PS1,V_Teensy1-6,BOOT1,ESP_EN1,V_ESP1-4,#PWR1-48,D1-5,S1-4,U1-5,SW3,C1-23,P1-3,Teensy1,RESET1,J1-4,USB1-2,L1-2,H1-5,R1-14,JP1",
     "variants": []
   },
   "sheets": [
